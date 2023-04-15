@@ -1,0 +1,7 @@
+/.vscode
+/.embuild
+/target
+/Cargo.lock
+src/certs/client/*
+CMakeCache.txt
+CMakeFiles
